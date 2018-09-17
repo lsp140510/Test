@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Main {
-	
 	public static String f(int m,int n){
 		StringBuffer sb = new StringBuffer();	// 保存结果
 		List<Integer> lis = new ArrayList<Integer>();	// 记载全部余数

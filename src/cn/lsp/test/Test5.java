@@ -1,16 +1,16 @@
 package cn.lsp.test;
-
+/*
+ * 一个函数，给出函数的系数和指数，求解求导后的系数和指数
+ */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Demo {
+public class Test5 {
 	public static void main(String[] args) throws Exception {
-//		System.out.println(cal26("124"));
 		int [] data= {2,3,3,2,4,1,4,0};
-//		System.out.println(convert("x3y12z123", 23));
 		int [] dao=daoshu(data);
 		for(int i=0;i<dao.length;i++) {
 			System.out.println(dao[i]);
