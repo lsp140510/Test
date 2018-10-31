@@ -1,5 +1,6 @@
 package cn.lsp.test;
-/*
+/**
+ *@author lsp
  * 一个函数，给出函数的系数和指数，求解求导后的系数和指数
  */
 import java.io.BufferedReader;
