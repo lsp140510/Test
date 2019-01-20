@@ -1,7 +1,7 @@
 package cn.lsp.test;
 
 /**
- * 
+ * @version
  * @author lsp 计算从1到n中数字1出现的次数，方法是将每个数字从int型转换成char型，然后计算等于1的次数
  */
 public class Test10 {
