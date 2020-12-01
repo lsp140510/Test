@@ -11,3 +11,5 @@
 ## Test10：计算从1到n中数字1出现的次数，方法是将每个数字从int型转换成char型，然后计算等于1的次数
 ## DesignModelTest：静态代理
 ## DynamicProxyTest：动态代理
+## Test11  测试多态，判断多态调用方法
+## Test15  求一元二次方程的解

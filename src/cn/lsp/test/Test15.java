@@ -1,5 +1,7 @@
 package cn.lsp.test;
-
+/*
+ * 求一元二次方程的解
+ */
 import java.util.Scanner;
 
 public class Test15 {
